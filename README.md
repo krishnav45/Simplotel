@@ -13,7 +13,7 @@ Features
 
 Project Structure
 
-/food-landing
+</food-landing
 │
 ├── index.html
 ├── style.css
@@ -21,7 +21,7 @@ Project Structure
     ├── pexels-robin-stickel-70497.jpg
     ├── pexels-eva-bronzini-6141651.jpg
     ├── pexels-rachel-claire-6752433.jpg
-    └── pexels-mister-mister-3434523.jpg
+    └── pexels-mister-mister-3434523.jpg>
 
 
 We can use this for Css Icon
