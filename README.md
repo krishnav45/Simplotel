@@ -2,7 +2,7 @@ A modern, responsive food landing page created with just HTML and CSS.
 It has a fully responsive navigation bar with a pure JS hamburger menu, a hero section, and a stylish layout for displaying food images.
 
 Features
-
+```
 .Fully Responsive Design
 .Modern food-themed UI
 .Sticky & clean navigation bar
@@ -10,7 +10,7 @@ Features
 .Asymmetrical image grid
 .Beautiful gradient backgrounds
 .Works on Desktop, Tablet & Mobile
-
+```
 Project Structure
 
 ```
